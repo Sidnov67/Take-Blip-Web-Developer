@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Sidnei Novais</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <img src="C:/Users/Sidnei/Desktop/Cursos/Projetos/SN.jpg" alt="Foto Sidnei Novais" class="photo">
+            <h1 id="title">Sidnei Novais</h1>
+        </header>
+        <section>
+           <header>
+              <h2 class="subtitle">Posts</h2>
+           </header>
+           <article class="post">
+               <header>
+                   <h3 class="post_title">Post #1</h3>
+                   <img src="C:\Users\Sidnei\Desktop\Cursos\Projetos\Postagem 1.jpg" alt="Editor de texto contendo código HTML" class="post_image">
+               </header>
+               <p class="post_content">
+                Lorem ipsum dolor sit amet, <a href= "https://www.linkedin.com/in/sidnei-novais-349b77228/" target="-blank">consectetur adipiscing elit</a>. Quisque neque felis, auctor quis laoreet vitae, malesuada id neque. Vestibulum sit amet dui vel quam fringilla finibus non in lorem. <a href="mailto: sidnei@email.com">Duis ullamcorper dapibus mi</a>, vel maximus ipsum efficitur id. In sit amet lobortis erat, et efficitur massa. Donec viverra vulputate ligula, sit amet pulvinar eros elementum nec. Curabitur at nunc tristique mi dapibus interdum. Nullam mollis consectetur pretium. Nullam finibus sit amet justo eu iaculis. Phasellus fringilla volutpat mollis. Phasellus gravida nisi ac risus efficitur porta. In rhoncus auctor ligula, eu posuere leo convallis ac. Sed dapibus ornare pharetra. Etiam pretium odio aliquet libero condimentum, interdum accumsan massa commodo.                
+               </p>
+           </article>
+        </section>
+        <footer>
+            <ul class="contact_list">
+                <li>
+                    <a href="mailto:sidnei@novais.com">sidnei@novais.com</a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/sidnei-novais-349b77228/" target= -blank">LinkedIn</a>
+                </li>
+                <li>
+                    <a href="https://github.com/Sidnov67/Take-Blip-Web-Developer" target= -blank">GitHub</a>
+                </li>
+            </ul>
+        </footer>
+    </body>
+</html>
